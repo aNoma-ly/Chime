@@ -36,13 +36,13 @@
         }
         
         public function getNumberOfSongs() {
-			$query = mysqli_query($this->con, "SELECT song_id FROM songs WHERE album='$this->id'");
+			$query = mysqli_query($this->con, "SELECT song_id FROM Songs WHERE album='$this->id'");
 			return mysqli_num_rows($query);
         }
         
         public function getSongIds() {
 
-			$query = mysqli_query($this->con, "SELECT song_id FROM songs WHERE album='$this->id' ORDER BY albumOrder ASC");
+			$query = mysqli_query($this->con, "SELECT song_id FROM Songs WHERE album='$this->id' ORDER BY albumOrder ASC");
 
 			$array = array();
 

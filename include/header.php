@@ -8,10 +8,14 @@ include("include/classes/Song.php");
 	<title>Chime™</title>
 
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
-	<link rel="icon" href="assets/images/ icons/chimelogo.png">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<script src="assets/js/script.js"></script>
+	<link rel="icon" href="assets/images/icons/chimelogo.png">
 </head>
 
 <body>
+
+	
 
 	<div id="container">
 

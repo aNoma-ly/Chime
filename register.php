@@ -17,7 +17,7 @@
 
 <html>
 <head>
-	<title>Welcome to Chime!</title>
+	<title>Welcome to Touch!</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/register.css">
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -128,12 +128,13 @@
 
 			</div>
 			<div id="loginText">
-				<h1> All the best music,anytime</h1>
-				<h2>Listening to loads of songs for free.</h2>
+				<h1> Hands Free, You're in control </h1>
+				<h2></h2>
 				<ul>
-					<li>Discover music you'll fall in love with</li>
-					<li>Create unique playlists and share them with your freinds </li>
-					<li>Follow your favorite artists for the latest music</li>
+					<li>The power is now in your hands</li>
+					<li>Hand gestures to dictate actions</li>
+					<li>Seamless transitions</li>
+					<li>Protect yourself, keep healthy</li>
 				</ul>
 			</div>	
 		</div>
